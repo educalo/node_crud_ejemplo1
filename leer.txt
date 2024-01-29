@@ -3,6 +3,8 @@ PORT=5000
 USERNAME=root
 PASSWORD=""
 
+Restauramos la base de datos web_app.sql en xampp
+
 2.- Defino el fichero dbService.js dentro de Server
 3.- Lo voy combinando con app.js
 4.- Ejecutar server: node start o nodemon app
